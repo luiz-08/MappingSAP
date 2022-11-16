@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Landscape updated="2020-08-12T20:22:55Z" version="1" generator="SAP GUI for Windows v7500.2.4.128">
+<Workspaces>
+	<Workspace uuid="fc7d0544-9810-4698-9802-583957126a1f" name="Local">
+	<Item uuid="18b07c9f-9571-4c6d-abaa-602220a72a0c" serviceid="f52f75f0-cd51-479c-9b7c-d7d23d9b8ae3"/>
+	<Item uuid="0808b0eb-65c6-4a6b-a3a2-b0c9acd1f33a" serviceid="10f49274-fcef-4ebb-9663-02d962c7638f"/>
+	<Item uuid="7b77ea6a-37f1-4a95-ba7f-71ea02a1b7bb" serviceid="0df88a26-3ffe-473e-ae82-4d667d71b102"/>
+	<Item uuid="451609bd-61f8-4a60-bbb4-334489902e45" serviceid="3d813049-eb57-4776-9d97-15a5db059927"/>
+	<Item uuid="2ff50c7a-4de6-4e5f-ade6-a16416d3a9e3" serviceid="81401695-7324-49ab-b77d-f70f47b5cd18"/>
+	</Workspace>
+</Workspaces>
+	<Messageservers>
+	<Messageserver uuid="ffdde09e-f1ac-4335-bd72-5b856f953842" name="xxxx" description="xxxx" host="xxxxxx" port="xxxxx"/>
+	<Messageserver uuid="a5bf2369-7270-4751-a8b5-af9b28c14e8d" name="xxxx" description="xxxx" host="xxxxxx" port="xxxxx"/>
+	</Messageservers>
+	<Services>
+	<Service type="SAPGUI" uuid="f52f75f0-cd51-479c-9b7c-d7d23d9b8ae3" name="xxxxx" systemid="xxxxx" msid="xxxxxx" server="xxxxx"
+	 sapcpg="xxxxx" dcpg="xxxxx" />
+	
+	
+	
+	<Service type="SAPGUI" uuid="10f49274-fcef-4ebb-9663-02d962c7638f" name="xxxxxxx" systemid="xxxxx" mode="xxxx" 
+	server="xxxxxx" sncop="xxxx" sapcpg="xxxxx" dcpg="xxxxx"/>
+	
+	<Service type="SAPGUI" uuid="0df88a26-3ffe-473e-ae82-4d667d71b102" name="xxxxx" systemid="xxxxx" mode="xxxx" server="xxxxxxx" sncop="xxxx" sapcpg="xxxx" dcpg="xxxx"/>
+	
+	<Service type="SAPGUI" uuid="3d813049-eb57-4776-9d97-15a5db059927" name="xxxx" systemid="xxxx" mode="xxxx" server="xxxxxxx" sncop="xxxxx" sapcpg="xxxxx" dcpg="xxxx"/>
+	<Service type="SAPGUI" uuid="81401695-7324-49ab-b77d-f70f47b5cd18" name="xxxxxxxx)" systemid="xxxx" msid="xxxxxx" server="xxxxx" sncop="xxxx" sapcpg="xxxx" dcpg="xxx"/>
+	</Services>
+	</Landscape>

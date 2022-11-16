@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Landscape><Messageservers>
+<Messageserver uuid="835a9d1c-6630-4bbb-bca1-de2ad93334fa" name="XXXX" description="XXXXX" port="XXXX"/>
+<Messageserver uuid="a48d392c-f622-45a5-b120-59af54c71aba" name="XXXXX" description="XXXXX" port="XXXXX"/>
+</Messageservers>
+</Landscape>
